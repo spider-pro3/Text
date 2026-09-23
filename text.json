@@ -1,5 +1,5 @@
 {
-  "enabled": true,
-  "message": "TEST UPDATE",
+  "enabled": false,
+  "message": "پروکسی آپدیت شد ✔️",
   "max_show": 3
 }
