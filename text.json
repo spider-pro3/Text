@@ -1,5 +1,6 @@
 {
-  "enabled": false,
-  "message": "پروکسی آپدیت شد ✔️",
-  "max_show": 3
+  "enabled": true,
+  "message": "پروکسی آپدیت شد",
+  "max_show": 3,
+  "version": 2
 }
